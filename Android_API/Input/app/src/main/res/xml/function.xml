@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+          android:keyHeight="81dp"
+          android:keyWidth="18%p"
+          android:horizontalGap="0.9%p"
+          android:verticalGap="0px">
+
+
+    <Row >
+
+        <Key
+            android:codes="-102"
+            android:keyIcon="@mipmap/switch_button_normal"
+            android:keyWidth="24.6%p"
+            />
+
+        <Key
+            android:codes="-103"
+            android:keyIcon="@mipmap/switch_button_normal"
+            />
+
+        <Key
+            android:codes="-104"
+            android:keyIcon="@mipmap/switch_button_normal"
+            />
+
+    </Row>
+
+
+
+
+            <!--android:codes="-5"-->
+            <!--android:horizontalGap="2.5%p"-->
+            <!--android:isRepeatable="true"-->
+            <!--android:keyEdgeFlags="right"-->
+            <!--android:keyIcon="@mipmap/key_back"-->
+            <!--android:keyWidth="12.6%p"/>-->
+
+    <!--</Row>-->
+
+    <!--<Row android:rowEdgeFlags="bottom">-->
+        <!--<Key-->
+            <!--android:codes="-102"-->
+            <!--android:keyLabel="ABC"-->
+            <!--android:keyWidth="12.6%p"/>-->
+        <!--<Key-->
+            <!--android:codes="-105"-->
+            <!--android:keyIcon="@mipmap/key_switch"-->
+            <!--android:keyWidth="12.6%p"/>-->
+
+        <!--<Key-->
+            <!--android:codes="-100"-->
+            <!--android:keyIcon="@mipmap/key_setting"-->
+            <!--android:keyWidth="11%p"/>-->
+        <!--<Key-->
+            <!--android:codes="32"-->
+            <!--android:isRepeatable="true"-->
+            <!--android:keyLabel="space"-->
+            <!--android:keyWidth="34.2%p"/>-->
+
+        <!--<Key-->
+
+
+            <!--android:codes="-4"-->
+            <!--android:keyEdgeFlags="right"-->
+            <!--android:keyLabel="return"-->
+            <!--android:keyWidth="24%p"/>-->
+    <!--</Row>-->
+
+
+
+</Keyboard>
